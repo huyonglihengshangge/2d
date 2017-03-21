@@ -1,5 +1,5 @@
 body{margin: 0;padding: 0;list-style: none}
-.cat{width: 500px;height: auto;margin: 50px auto}
+.cat{width: 500px;height: auto;margin: 50px auto;position: relative}
 .head{
 	width: 320px;
 	height: 300px;
@@ -235,12 +235,12 @@ body{margin: 0;padding: 0;list-style: none}
     height: 100px; 
     width: 100px; 
     position: absolute; 
-    top: 320px; 
-    left: 355px; 
+    top: 272px;
+    left: 248px;
 } 
 /*左手*/ 
 .hand_left { 
-    left: 96px; 
+    left: -10px;
 } 
 /*手臂公共部分*/ 
 .arm { 
